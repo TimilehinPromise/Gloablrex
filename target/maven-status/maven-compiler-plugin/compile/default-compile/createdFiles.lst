@@ -1,0 +1,14 @@
+com\globalaccelerex\javatest\entity\Hotel_Reservation.class
+com\globalaccelerex\javatest\entity\ReservationRequestBody.class
+com\globalaccelerex\javatest\controller\HotelController.class
+com\globalaccelerex\javatest\entity\Hotels.class
+com\globalaccelerex\javatest\Exception\ResourceNotFoundException.class
+com\globalaccelerex\javatest\JavaTestApplication.class
+com\globalaccelerex\javatest\service\ReservationService.class
+com\globalaccelerex\javatest\Repository\HotelRepository.class
+com\globalaccelerex\javatest\entity\HotelRequest.class
+com\globalaccelerex\javatest\controller\ReservationController.class
+com\globalaccelerex\javatest\service\HotelService.class
+com\globalaccelerex\javatest\Repository\ReservationRepository.class
+com\globalaccelerex\javatest\entity\Hotels$HotelsBuilder.class
+com\globalaccelerex\javatest\entity\Room_type.class
